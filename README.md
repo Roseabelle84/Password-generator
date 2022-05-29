@@ -1,7 +1,7 @@
 # Password-generator for Employees
 # Users use to generate password
-## Private and Secure website
-![Screenshot (85)](https://user-images.githubusercontent.com/103977896/170838986-22d754c4-dd64-4096-811c-40ccca125a91.png)
+## Private and Secure passwords for employees option to use numbers, characters uppercase and lowercase, symbols
+![Screenshot (87)](https://user-images.githubusercontent.com/103977896/170891800-736dd545-d1ee-4c80-aa9a-dc44ccc4816a.png)
 
 
 
